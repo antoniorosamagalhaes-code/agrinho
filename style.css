@@ -9,8 +9,29 @@ header{
     height: 5em;
 }
 
+
 header h1{
     font-size: 34px;
     text-align:center;
-    /*font-family: sans-serif;
+    font-family: sans-serif;
+}
+
+
+img{
+    width: 600px;
+    height: 280;
+}
+
+footer{
+    background-color: tomato;
+    text-align: center;
+    color: rgb(0, 255, 242);
+    position: fixed;
+    width: 100%;
+}
+
+main{
+    background-color: rgb(21, 174, 212);
+    width: 70%;
+   
 }
